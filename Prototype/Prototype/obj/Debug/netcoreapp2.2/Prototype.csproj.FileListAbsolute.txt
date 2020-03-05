@@ -1,0 +1,10 @@
+C:\Users\shiga\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.deps.json
+C:\Users\shiga\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.json
+C:\Users\shiga\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\shiga\source\repos\Prototype\Prototype\bin\Debug\netcoreapp2.2\Prototype.pdb
+C:\Users\shiga\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.AssemblyInfo.cs
+C:\Users\shiga\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.dll
+C:\Users\shiga\source\repos\Prototype\Prototype\obj\Debug\netcoreapp2.2\Prototype.pdb

@@ -1,0 +1,11 @@
+C:\Users\shiga\source\repos\Builder\Builder\obj\Debug\netcoreapp2.2\Builder.csprojAssemblyReference.cache
+C:\Users\shiga\source\repos\Builder\Builder\obj\Debug\netcoreapp2.2\Builder.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\Builder\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\Builder\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfo.cs
+C:\Users\shiga\source\repos\Builder\Builder\bin\Debug\netcoreapp2.2\Builder.deps.json
+C:\Users\shiga\source\repos\Builder\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.json
+C:\Users\shiga\source\repos\Builder\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\Builder\Builder\bin\Debug\netcoreapp2.2\Builder.dll
+C:\Users\shiga\source\repos\Builder\Builder\bin\Debug\netcoreapp2.2\Builder.pdb
+C:\Users\shiga\source\repos\Builder\Builder\obj\Debug\netcoreapp2.2\Builder.dll
+C:\Users\shiga\source\repos\Builder\Builder\obj\Debug\netcoreapp2.2\Builder.pdb

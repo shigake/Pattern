@@ -1,0 +1,10 @@
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.deps.json
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.json
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.runtimeconfig.dev.json
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.2\FactoryMethod.pdb
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.AssemblyInfo.cs
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.dll
+C:\Users\shiga\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.2\FactoryMethod.pdb
